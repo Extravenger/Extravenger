@@ -2,4 +2,4 @@ As the role of Adversarial Tactics Expert, I can fully dive into my passion for 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExtraVenger&show_icons=true&theme=dracula&hide=commits,prs,issues)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ExtraVenger&show_icons=true&theme=dracula&hide=commits,prs,issues" width="400"> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ExtraVenger&show_icons=true&theme=dracula&hide=commits,prs,issues" width="400" height="100"> 
