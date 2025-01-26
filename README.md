@@ -19,10 +19,5 @@
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
-- <a href="https://github.com/Extravenger/scanVenger" > scanVenger - Hosts and Ports scanner utility for windows.</a>
-- <a href="https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters" > PowerShell Scripts & Exploits</a>
-- <a href="https://github.com/Whitecat18/Mavoc" > Mavoc C2 [Beta]</a>
-- <a href="https://github.com/Whitecat18/Mavoc-Antivirus" > Mavoc Antivirus </a>
-- <a href="https://github.com/Whitecat18/javahexor" > JavaHexor </a>
-- <a href="https://github.com/Whitecat18/Windows-Activator.git" > Windows Activator</a>
-- <a href="https://github.com/Whitecat18/Rusty-Red-Team-Tools/tree/main/Reqwest-Prober-Rust" > Reqwest-Prober</a>
+- <a href="https://github.com/Extravenger/scanVenger" > scanVenger - Hosts and Ports scanner utility for windows</a>
+- <a href="https://github.com/Extravenger/mssqlVenger" > MSSSQL exploitation tool for AD envrionments</a>
