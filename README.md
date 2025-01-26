@@ -1,6 +1,6 @@
 <h2>Amit Mor</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ExtraVenger&show_icons=true&theme=dracula&hide=commits,prs,issues" width="500"> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ExtraVenger&show_icons=true&theme=dracula&hide=commits,prs,issues" width="400"> 
 
 <p><em>
      As the role of Adversarial Tactics Expert, I can fully dive into my passion for offensive security. I’ve always been driven by the challenge of uncovering vulnerabilities and strengthening defences. Excited to continue breaking boundaries.
