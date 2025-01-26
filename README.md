@@ -8,14 +8,12 @@
 
 <h4 align="left">Personal blog:</h4>
 <p align="left">
-<a href="https://medium.com/soon" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="https://medium.com/@smukx" height="40" width=50" /></a>
+<a href="https://medium.com/soon" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="https://medium.com/soon" height="40" width=50" /></a>
 <!-- <a href="https://smukx18.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/10382/blogger.svg" alt="https://smukx18.github.io/" height="40" width="50" /></a> -->
 </p>
 
-
-[![Twitter: Smukx07](https://img.shields.io/twitter/follow/5mukx?style=flat-square)](https://twitter.com/5mukx)
-[![GitHub Whitecat18](https://img.shields.io/github/followers/Whitecat18?label=follow%20github&style=flat-square)](https://github.com/Whitecat18)
-![Profile Viewers](https://komarev.com/ghpvc/?username=Whitecat18)
+[![GitHub Extravenger](https://img.shields.io/github/followers/Extravenger?label=follow%20github&style=flat-square)](https://github.com/Extravenger)
+![Profile Viewers](https://komarev.com/ghpvc/?username=Extravenger)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extravenger&layout=compact&show_icons=true&theme=cobalt" width="280" /> 
 
