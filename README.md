@@ -19,5 +19,5 @@
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
-- <a href="https://github.com/Extravenger/scanVenger" > scanVenger - Hosts and Ports scanner utility for windows</a>
-- <a href="https://github.com/Extravenger/mssqlVenger" > mssqlVenger - MSSQL exploitation tool for Active Directory (AD) environments.</a>
+- <a href="https://github.com/Extravenger/scanVenger" > scanVenger
+- <a href="https://github.com/Extravenger/mssqlVenger" > mssqlVenger
