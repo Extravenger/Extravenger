@@ -8,7 +8,7 @@
 
 <h4 align="left">Personal blog:</h4>
 <p align="left">
-<a href="https://extravenger.github.io" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="40" width=50" /></a>
+https://extravenger.github.io
 </p>
 
 [![GitHub Extravenger](https://img.shields.io/github/followers/Extravenger?label=follow%20github&style=flat-square)](https://github.com/Extravenger)
