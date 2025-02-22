@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ExtraVenger&show_icons=true&theme=dracula&hide=commits,prs,issues" width="400"> 
 
 <p><em>
-     As an Adversarial Tactics Expert, I can fully dive into my passion for offensive security. I’ve always been driven by the challenge of uncovering vulnerabilities and strengthening defences. Excited to continue breaking boundaries.
+     As an Adversarial Tactics Expert, I can fully dive into my passion for offensive security. I’ve always been driven by the challenge of uncovering vulnerabilities and strengthening defences.<br>Excited to continue breaking boundaries.
 </em></p>
 
 [![GitHub Extravenger](https://img.shields.io/github/followers/Extravenger?label=follow%20github&style=flat-square)](https://github.com/Extravenger)
