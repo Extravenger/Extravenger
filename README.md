@@ -1,5 +1,3 @@
-<h2>Amit Mor</h2>
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Extravenger&show_icons=true&theme=radical&hide=commits,prs,issues" width="400"> 
 
 <p><em>
