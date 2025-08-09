@@ -8,6 +8,8 @@
 ![Profile Viewers](https://komarev.com/ghpvc/?username=Extravenger)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extravenger&layout=compact&show_icons=true&theme=radical" width="280" /> 
+
+Certified:<br>
 <img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
