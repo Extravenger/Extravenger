@@ -12,7 +12,7 @@
 Certified:<br>
 <a href="https://www.credential.net/04d724fd-3000-48b6-bee8-4a362ee67a46#acc.C6wz38jp">
     <img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
-</a><a href="https://www.credential.net/a739fbdc-9f1f-4543-9f18-244b5d4771eb#acc.dSJ0FfzR">
+</a> <a href="https://www.credential.net/a739fbdc-9f1f-4543-9f18-244b5d4771eb#acc.dSJ0FfzR">
      <img width="100" height="100" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" />
 </a>
 
