@@ -10,7 +10,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extravenger&layout=compact&show_icons=true&theme=radical" width="280" /> 
 
 Certified:<br>
-<img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
+<a href="https://www.credential.net/04d724fd-3000-48b6-bee8-4a362ee67a46#acc.C6wz38jp">
+    <img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
+</a>
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
