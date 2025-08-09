@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extravenger&layout=compact&show_icons=true&theme=radical" width="280" /> 
 
-<h3><u></u>Certified</u></u><h5></h3><br>
+<h3><u>Certified</u><h5></h3><br>
 <div style="display: flex; gap: 10px;">
  <img width="100" height="100" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" />
  <img width="100" height="100" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" />
