@@ -10,13 +10,17 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extravenger&layout=compact&show_icons=true&theme=radical" width="280" /> 
 
 Certified:<br>
-<a href="https://www.credential.net/04d724fd-3000-48b6-bee8-4a362ee67a46#acc.C6wz38jp">
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.credential.net/04d724fd-3000-48b6-bee8-4a362ee67a46#acc.C6wz38jp">
     <img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
-</a> <a href="https://www.credential.net/a739fbdc-9f1f-4543-9f18-244b5d4771eb#acc.dSJ0FfzR">
-     <img width="100" height="100" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" />
-</a> </a> <a href="https://www.credential.net/4ca1fe61-26bc-4805-8e90-19e90153ede3#acc.aHwlFCIL">
-     <img width="100" height="100" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" />
-</a>
+  </a>
+  <a href="https://www.credential.net/a739fbdc-9f1f-4543-9f18-244b5d4771eb#acc.dSJ0FfzR">
+    <img width="100" height="100" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" />
+  </a>
+  <a href="https://www.credential.net/4ca1fe61-26bc-4805-8e90-19e90153ede3#acc.aHwlFCIL">
+    <img width="100" height="100" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" />
+  </a>
+</div>
 
 <h5>WORKS I DID AND MADE IT OPENSOURCE</h5>
 
