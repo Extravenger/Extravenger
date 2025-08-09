@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extravenger&layout=compact&show_icons=true&theme=radical" width="280" /> 
 
-Certified:<br>
+<h5>Certified<h5></h5><br>
 <div style="display: flex; gap: 10px;">
   <a href="https://www.credential.net/4ca1fe61-26bc-4805-8e90-19e90153ede3#acc.aHwlFCIL">
     <img width="100" height="100" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" />
