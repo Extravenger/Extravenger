@@ -16,8 +16,3 @@
  <img width="100" height="100" alt="1_f9CO-HTghdvMLKweeAv0Aw" src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" />
  <img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
 </div>
-
-<h3>WORKS I DID AND MADE IT OPENSOURCE</h3>
-
-- <a href="https://github.com/Extravenger/OSEPlayground" > OSEPlayground
-- <a href="https://github.com/Extravenger/RollerRoaster" > RollerRoaster
