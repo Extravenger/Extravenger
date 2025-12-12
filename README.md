@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=180&section=header&text=Working+as+Adversarial+Tactics+Expert%0A%22The+strongest+walls+are+built%0Aby+those+who+know+how+to+break+them.%22&fontSize=24&animation=twinkling&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Welcome+to+my+GitHub&fontSize=40&animation=twinkling&width=800" />
 </div>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
