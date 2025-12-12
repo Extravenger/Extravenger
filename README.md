@@ -3,7 +3,7 @@
 </em></p>
 
 [![GitHub Extravenger](https://img.shields.io/github/followers/Extravenger?label=follow%20github&style=flat-square)](https://github.com/Extravenger)
-![Profile Viewers](https://komarev.com/ghpvc/?username=Extravenger)
+![Profile Views](https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Extravenger?cardType=level-alternate&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
 
