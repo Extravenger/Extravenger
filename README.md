@@ -1,6 +1,6 @@
-<p><em>
-     As an Adversarial Tactics Expert, I can fully dive into my passion for offensive security.<br>I’ve always been driven by the challenge of uncovering vulnerabilities and strengthening defences.<br>Excited to continue breaking boundaries.
-</em></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=9B4DFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub!;Full-stack+Developer;Open-Source+Contributor;Purple+Aesthetic+Enthusiast+💜" />
+</div>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star)
