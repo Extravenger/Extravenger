@@ -14,20 +14,20 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 0 auto; max-width: 800px;">
-  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; margin: 0 auto;">
+  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden; flex-shrink: 0;">
     <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="Certification Logo 1" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
-  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden; flex-shrink: 0;">
     <img src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
-  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden; flex-shrink: 0;">
     <img src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" alt="1_f9CO-HTghdvMLKweeAv0Aw" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
-  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden; flex-shrink: 0;">
     <img src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
-  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden; flex-shrink: 0;">
     <img src="https://github.com/user-attachments/assets/8b8a4268-e443-47ee-98db-b5de15f6f16e" alt="OSWE" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
 </div>
