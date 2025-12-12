@@ -25,7 +25,7 @@
   </thead>
   <tbody>
     <tr style="background-color: #F3E5F5;">
-      <td style="padding: 12px; border-bottom: 1px solid #CE93D8;"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100" style="border-radius: 4px;"></td>
+      <td style="padding: 5px; border-bottom: 1px solid #CE93D8;"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100" style="border-radius: 4px;"></td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;">January 15, 2023</td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;"><a href="https://www.accredible.com/credential/example1" style="color: #6A1B9A; text-decoration: none;">View Credential</a></td>
     </tr>
