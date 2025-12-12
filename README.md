@@ -1,17 +1,33 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Extravenger&fontSize=40&animation=wave" />
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Extravenger&fontSize=40&animation=wave" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.2);" />
 </div>
 
-![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github" alt="GitHub Followers" style="border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
+  <img src="https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
+  <img src="https://img.shields.io/badge/Professional-Certified-770677?style=for-the-badge" alt="Certified" style="border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
+</div>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Extravenger?theme=dracula&cardType=github)](https://git.io/awesome-stats-card)
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Extravenger?theme=dracula&cardType=github" alt="My Awesome Stats" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.2); max-width: 500px;" />
+  </a>
+</div>
 
-![Certified](https://img.shields.io/badge/Professional-Certified-blueviolet?style=for-the-badge)
-<div style="display: flex; gap: 10px;">
- <img width="100" height="100" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" />
- <img width="100" height="100" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" />
- <img width="100" height="100" alt="1_f9CO-HTghdvMLKweeAv0Aw" src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" />
- <img width="100" height="100" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" />
- <img width="82" height="100" alt="OSWE" src="https://github.com/user-attachments/assets/8b8a4268-e443-47ee-98db-b5de15f6f16e" />
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 0 auto; max-width: 800px;">
+  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+    <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="Certification Logo 1" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
+  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+    <img src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
+  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+    <img src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" alt="1_f9CO-HTghdvMLKweeAv0Aw" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
+  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+    <img src="https://github.com/user-attachments/assets/998b1943-a613-47bc-bfa6-247784bb8f5b" alt="6a9b7063-0015-4c87-aae9-1f42a644df1f" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
+  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; background-color: #F3E5F5; border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.1); overflow: hidden;">
+    <img src="https://github.com/user-attachments/assets/8b8a4268-e443-47ee-98db-b5de15f6f16e" alt="OSWE" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+  </div>
 </div>
