@@ -25,17 +25,29 @@
   </thead>
   <tbody>
     <tr style="background-color: #F3E5F5;">
-      <td style="padding: 5px; border-bottom: 1px solid #CE93D8;"><img width="50" height="50" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100" style="border-radius: 4px;"></td>
+      <td style="padding: 12px; border-bottom: 1px solid #CE93D8; text-align: center; vertical-align: middle;">
+        <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #E1BEE7; border-radius: 4px; overflow: hidden;">
+          <img width="60" height="60" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="Certification 1 Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;">January 15, 2023</td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;"><a href="https://www.accredible.com/credential/example1" style="color: #6A1B9A; text-decoration: none;">View Credential</a></td>
     </tr>
     <tr style="background-color: white;">
-      <td style="padding: 12px; border-bottom: 1px solid #CE93D8;"><img src="https://example.com/cert-logo2.png" alt="Certification 2 Logo" width="100" style="border-radius: 4px;"></td>
+      <td style="padding: 12px; border-bottom: 1px solid #CE93D8; text-align: center; vertical-align: middle;">
+        <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #E1BEE7; border-radius: 4px; overflow: hidden;">
+          <img src="https://example.com/cert-logo2.png" alt="Certification 2 Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;">March 22, 2024</td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;"><a href="https://www.accredible.com/credential/example2" style="color: #6A1B9A; text-decoration: none;">View Credential</a></td>
     </tr>
     <tr style="background-color: #F3E5F5;">
-      <td style="padding: 12px;"><img src="https://example.com/cert-logo3.png" alt="Certification 3 Logo" width="100" style="border-radius: 4px;"></td>
+      <td style="padding: 12px; text-align: center; vertical-align: middle;">
+        <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #E1BEE7; border-radius: 4px; overflow: hidden;">
+          <img src="https://example.com/cert-logo3.png" alt="Certification 3 Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        </div>
+      </td>
       <td style="padding: 12px;">October 10, 2025</td>
       <td style="padding: 12px;"><a href="https://www.accredible.com/credential/example3" style="color: #6A1B9A; text-decoration: none;">View Credential</a></td>
     </tr>
