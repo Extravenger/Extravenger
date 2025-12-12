@@ -1,7 +1,7 @@
 <div align="center">
-
-![Title](https://img.shields.io/badge/Welcome_to_My_GitHub-770677?style=for-the-badge&logo=star&logoColor=white)
-
+  <h1 style="background:#770677; color:white; padding:15px; border-radius:8px;">
+    Welcome to My GitHub Profile
+  </h1>
 </div>
 
 
