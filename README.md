@@ -2,7 +2,7 @@
      As an Adversarial Tactics Expert, I can fully dive into my passion for offensive security.<br>I’ve always been driven by the challenge of uncovering vulnerabilities and strengthening defences.<br>Excited to continue breaking boundaries.
 </em></p>
 
-[![GitHub Extravenger](https://img.shields.io/github/followers/Extravenger?label=follow%20github&style=flat-square)](https://github.com/Extravenger)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&color=770677&style=for-the-badge&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Extravenger?cardType=level-alternate&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
