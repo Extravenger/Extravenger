@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Welcome+to+my+GitHub&fontSize=40&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Extravenger&fontSize=40&animation=wave" />
 </div>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
