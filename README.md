@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=9B4DFF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub!;Full-stack+Developer;Open-Source+Contributor;Purple+Aesthetic+Enthusiast+💜" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=9B4DFF&center=true&vCenter=true&random=false&width=900&lines=Working+as+Adversarial+Tactics+Expert;\"The+strongest+walls+are+built+by+those+who+know+how+to+break+them.\"+💜" />
 </div>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
