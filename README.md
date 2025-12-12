@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=150&section=header&text=Working+as+Adversarial+Tactics+Expert%0A%22The+strongest+walls+are+built+by+those+who+know+how+to+break+them.%22&fontSize=28&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=180&section=header&text=Working+as+Adversarial+Tactics+Expert%0A%22The+strongest+walls+are+built%0Aby+those+who+know+how+to+break+them.%22&fontSize=24&animation=twinkling&width=1000" />
 </div>
-
-
 
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star)
