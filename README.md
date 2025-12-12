@@ -1,8 +1,7 @@
 <div align="center">
-  <h1 style="background:#770677; color:white; padding:15px; border-radius:8px;">
-    Welcome to My GitHub Profile
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Working+as+Adversarial+Tactics+Expert+%22The+strongest+walls+are+built+by+those+who+know+how+to+break+them.%22&fontSize=40" />
 </div>
+
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
