@@ -1,20 +1,17 @@
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Extravenger&fontSize=40&animation=wave" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.2);" />
 </div>
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 40px;">
   <img src="https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github" alt="GitHub Followers" style="border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
   <img src="https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
   <img src="https://img.shields.io/badge/Professional-Certified-770677?style=for-the-badge" alt="Certified" style="border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
 </div>
-
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Extravenger?theme=dracula&cardType=github" alt="My Awesome Stats" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(119, 6, 119, 0.2); max-width: 500px;" />
   </a>
 </div>
-
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
  <img width="100" height="100" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" />
  <img width="100" height="100" alt="3b5b3e81-1239-4266-874e-1f44de7acfe5" src="https://github.com/user-attachments/assets/242e3dca-18df-4d1d-9877-bb1690724572" />
  <img width="100" height="100" alt="1_f9CO-HTghdvMLKweeAv0Aw" src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" />
