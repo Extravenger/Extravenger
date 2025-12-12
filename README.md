@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=770677&height=120&section=header&text=Extravenger&fontSize=40&animation=wave" />
 </div>
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 ![GitHub Followers](https://img.shields.io/github/followers/Extravenger?label=Followers&color=770677&style=for-the-badge&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Extravenger&label=Profile%20Views&color=770677&style=for-the-badge&logo=star)
 
@@ -27,7 +34,7 @@
     <tr style="background-color: #F3E5F5;">
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8; text-align: center; vertical-align: middle;">
         <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #E1BEE7; border-radius: 4px; overflow: hidden;">
-          <img width="60" height="60" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="Certification 1 Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+          <img class="center" width="60" height="60" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="Certification 1 Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
         </div>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #CE93D8;">January 15, 2023</td>
